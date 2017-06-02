@@ -1,5 +1,5 @@
 **Finding Lane Lines on the Road**
-
+by Rakshith Krishnamurthy
 ### Reflection
 
 ### 1. Pipeline:
@@ -23,7 +23,7 @@ One potential shortcoming would be what would happen when ...
 Another shortcoming could be ...
 
 
-### 3. SImprovements to your pipeline
+### 3. Improvements to your pipeline
 
 1.The lane markings are straight and scope of improvement is to follow along the curve.
 2.Improvement of the lanes visibility on different road surfaces.
