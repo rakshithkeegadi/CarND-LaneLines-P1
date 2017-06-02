@@ -26,6 +26,6 @@ by Rakshith Krishnamurthy
 3. The pipeline should improve for roads that are curved and area of interest should change.
 
 ## Links to the images and vidoes and as below
-### Images can be found [here](https://github.com/rakshithkeegadi/CarND-LaneLines-P1/blob/master/P1.ipynb)
 
-### Final videos are [here](https://github.com/rakshithkeegadi/CarND-LaneLines-P1/tree/master/test_videos_output)
+* Images and Code click [here](https://github.com/rakshithkeegadi/CarND-LaneLines-P1/blob/master/P1.ipynb)
+* Final videos click [here](https://github.com/rakshithkeegadi/CarND-LaneLines-P1/tree/master/test_videos_output)
